@@ -1,0 +1,8 @@
+/* main.css */
+body {
+    background-image: url('Peduli-Diri-main\gambar\GEDUNG A DAN B.ARW.jpg'); /* Ganti path dengan path relatif atau absolut menuju gambar Anda */
+    background-size: cover; /* Untuk memastikan gambar meliputi seluruh area latar belakang */
+    background-position: center; /* Untuk memposisikan gambar ke tengah */
+}
+
+/* Tambahan styling lainnya sesuai kebutuhan Anda */
